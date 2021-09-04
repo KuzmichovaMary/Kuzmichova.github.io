@@ -1,0 +1,12 @@
+body {
+	background-color: #EEEEEE;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	width: 80%;
+	height: 80%;
+	border: 50px solid black;
+	border-radius: 20px;
+}
